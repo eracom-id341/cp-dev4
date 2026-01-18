@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Développement d’interfaces 4 – CMS
+title: Intro
 permalink: index.html
 ---
 
