@@ -1,7 +1,4 @@
-# cp-dev4
-Cours Développement d'interfaces 4 — CMS
-
-## Introduction
+## Cours Développement d’interfaces 4 — CMS
 
 Dans ce cours, vous apprendrez à construire des sites avec des outils avancés : des CMS (Content Management System). 
 
@@ -17,6 +14,7 @@ Le CMS que nous utiliserons principalement est WordPress (augmenté de l'interfa
 - WordPress est open-source et gratuit. Vous pouvez donc l'utiliser sans être forcé de payer une licence ou un abonnement.
 - WordPress est relativement facile à apprendre, tout en donnant une grande liberté visuelle dans la conception des sites.
 
+
 ## Planification du cours:
 
 ### Première phase: apprentissage
@@ -24,8 +22,6 @@ Le CMS que nous utiliserons principalement est WordPress (augmenté de l'interfa
 Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre leçons.   
 Rendu 1: documentation en capture d'écran vidéo du travail réalisé.  
 Date du rendu: Lundi 9 février 2026 à la fin du cours.
-
-***
 
 ### Deuxième phase: application
 
