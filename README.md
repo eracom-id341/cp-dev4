@@ -40,4 +40,7 @@ La première phase se déroule sur quatre séances: elle débute le 23 février 
 
 Pour gérer ce projet collectif, nous utiliserons [une méthodologie Agile nommée Scrum](https://cours-web.ch/agile/).
 
-***
+
+## Agenda
+
+Voir [l'agenda du cours](https://eduvaud.sharepoint.com/:x:/r/sites/ERACOM_2526_ID341_Teams/Documents%20partages/Dev%20interface%204%20-%20CMS/AGENDA%20ID341%20DEV4.xlsx?d=w007b330686f249aebfaf2ba7ccf30856&csf=1&web=1&e=u0xbCD) dans Teams.
