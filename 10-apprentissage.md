@@ -47,8 +47,11 @@ Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre le�
 
 ### Evaluation finale
 
-Rendu 1: documentation en capture d'écran vidéo du travail réalisé.  
-Date du rendu: Lundi 9 février 2026 à la fin du cours.
+**Format du rendu:** 
+- documentation en capture d'écran vidéo du travail réalisé. 
+- export ZIP du site web 
+
+**Date du rendu:** Lundi 9 février 2026 à la fin du cours.
 
 #### Critères: 
 
@@ -60,6 +63,8 @@ Date du rendu: Lundi 9 février 2026 à la fin du cours.
 - Un style typographique est configuré (styles du thème, classes...) (1pt)
 - Des **variables de couleur** ont été utilisées (1pt)
 - Une catégorie est utilisée pour le Portfolio (1pt)
+
+Total des points: 11
 
 #### Barème
 
