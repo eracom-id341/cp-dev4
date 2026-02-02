@@ -18,3 +18,8 @@ Ce travail débutera le 23 février, et se déroulera en trois phases.
 La première phase se déroule sur quatre séances: elle débute le 23 février et se termine le lundi 16 mars.
 
 Pour gérer ce projet collectif, nous utiliserons [une méthodologie Agile nommée Scrum](https://cours-web.ch/agile/).
+
+## Liens utiles
+
+- [Le dossier Figma](https://www.figma.com/files/team/1591074338941558938/all-projects)
+- [Le projet Github](https://github.com/eracom/site-eracom-2026)
