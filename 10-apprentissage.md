@@ -50,14 +50,23 @@ Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre le�
 Rendu 1: documentation en capture d'écran vidéo du travail réalisé.  
 Date du rendu: Lundi 9 février 2026 à la fin du cours.
 
-Critères: 
+#### Critères: 
 
-- Comporte les pages À Propos et Contact
-- Comporte trois contenus de Portfolio
-- Un modèle de page d'accueil est configuré (avec travaux récents)
-- ACF: le contenu Portfolio est défini
-- Un modèle Bricks pour Portfolio est créé
-- Un style typographique est configuré
-- Des variables de couleur ont été utilisées
-- Une catégorie est utilisée pour le Portfolio
+- Comporte les pages À Propos et Contact (1pt)
+- Comporte trois contenus de Portfolio (1pt)
+- Un modèle de page d'accueil est configuré (avec travaux récents) (2pts)
+- ACF: le contenu Portfolio est défini (2pts)
+- Un modèle Bricks pour Portfolio est créé (2pts)
+- Un style typographique est configuré (styles du thème, classes...) (1pt)
+- Des variables de couleur ont été utilisées (1pt)
+- Une catégorie est utilisée pour le Portfolio (1pt)
 
+#### Barème
+
+11 pts = 6
+10 pts = 5,5
+9 pts = 5
+8 pts = 4,5
+7 pts = 4
+6 pts = 3,5
+5 pts = 3
