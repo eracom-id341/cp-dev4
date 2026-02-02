@@ -52,13 +52,13 @@ Date du rendu: Lundi 9 février 2026 à la fin du cours.
 
 #### Critères: 
 
-- Comporte les pages À Propos et Contact (1pt)
+- Comporte les pages *À Propos* et *Contact* (1pt)
 - Comporte trois contenus de Portfolio (1pt)
-- Un modèle de page d'accueil est configuré (avec travaux récents) (2pts)
-- ACF: le contenu Portfolio est défini (2pts)
-- Un modèle Bricks pour Portfolio est créé (2pts)
+- Un **modèle de page d'accueil** est configuré (avec travaux récents) (2pts)
+- ACF: le contenu *Portfolio* est défini (2pts)
+- Un **modèle Bricks** pour Portfolio est créé (2pts)
 - Un style typographique est configuré (styles du thème, classes...) (1pt)
-- Des variables de couleur ont été utilisées (1pt)
+- Des **variables de couleur** ont été utilisées (1pt)
 - Une catégorie est utilisée pour le Portfolio (1pt)
 
 #### Barème
