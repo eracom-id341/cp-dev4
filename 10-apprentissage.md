@@ -63,10 +63,10 @@ Date du rendu: Lundi 9 février 2026 à la fin du cours.
 
 #### Barème
 
-11 pts = 6
-10 pts = 5,5
-9 pts = 5
-8 pts = 4,5
-7 pts = 4
-6 pts = 3,5
-5 pts = 3
+11 pts = 6  
+10 pts = 5,5  
+9 pts = 5  
+8 pts = 4,5  
+7 pts = 4  
+6 pts = 3,5  
+5 pts = 3  
