@@ -61,7 +61,7 @@ Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre le�
 - ACF: le contenu *Portfolio* est défini (2pts)
 - Un **modèle Bricks** pour Portfolio est créé (2pts)
 - Un style typographique est configuré (styles du thème, classes...) (1pt)
-- Des **variables de couleur** ont été utilisées (1pt)
+- Des **variables de couleur** ont été utilisées (dans Bricks) (1pt)
 - Une catégorie est utilisée pour le Portfolio (1pt)
 
 Total des points: 11
